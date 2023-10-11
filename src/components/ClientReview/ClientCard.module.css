@@ -1,0 +1,25 @@
+.card {
+  border: 1px solid grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  border-radius: 20px;
+}
+.cardImage {
+  width: 105px;
+  height: 102px;
+}
+.cardMessage {
+  flex: 2;
+}
+.cardName {
+  font-size: 24px;
+  font-weight: 600;
+  color: white;
+}
+.cardDesignation {
+  font-size: 14px;
+  font-weight: 400;
+  color: white;
+}

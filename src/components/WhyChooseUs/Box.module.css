@@ -1,0 +1,28 @@
+.box {
+  border: 1px solid gray;
+  border-radius: 20px;
+  height: 377px;
+  padding: 20px;
+}
+.sucessRate {
+  margin-top: 40px;
+  font-size: 24px;
+  font-weight: 600;
+}
+.details {
+  margin-top: 40px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.boxButton {
+  margin-top: 40px;
+  width: 121px;
+  height: 43px;
+  background: #e3b748;
+  border-radius: 23.5px;
+}
+.giftIconwrap {
+  background-color: white;
+  width: fit-content;
+  border-radius: 50px;
+}

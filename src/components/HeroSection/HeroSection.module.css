@@ -1,0 +1,43 @@
+.heroSection {
+  display: flex;
+  justify-content: space-between;
+}
+.heroImage {
+}
+.heroTexts {
+}
+#heading1 {
+  font-size: 66px;
+  font-weight: 500;
+}
+#heading2 {
+  font-size: 66px;
+  font-weight: 700;
+}
+.texts {
+  font-size: 18px;
+  font-weight: 500;
+  color: gray;
+}
+.email {
+  height: 62px;
+  display: flex;
+  background-color: rgb(52, 47, 47);
+  border-radius: 40px;
+  margin-top: 60px;
+}
+.heroSectionbutton {
+  background-color: #e3b748;
+  height: 100%;
+  flex: 2;
+  border-radius: 40px;
+}
+.heroSectionInput {
+  flex: 4;
+  background-color: rgb(52, 47, 47);
+  border: none;
+  border-radius: 40px;
+  text-align: center;
+}
+.heroImage {
+}

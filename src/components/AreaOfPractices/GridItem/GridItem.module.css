@@ -1,0 +1,13 @@
+.wrapper {
+  position: relative;
+  text-align: center;
+}
+.text {
+  position: absolute;
+  bottom: 20px;
+  color: white;
+  right: 40px;
+  left: 40px;
+  font-size: 24px;
+  font-weight: 600;
+}

@@ -1,0 +1,12 @@
+.outerWrapper {
+  height: 636px;
+  background-color: black;
+}
+.wrapper {
+  background-color: black;
+  height: 636px;
+  /* margin-top: 40px; */
+  margin-left: 120px;
+  margin-right: 120px;
+  /* border: 1px solid yellow; */
+}
